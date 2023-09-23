@@ -68,7 +68,6 @@ function App(): JSX.Element {
       style={[
         {
           flexDirection: 'column',
-          flex: 1,
         },
       ]}>
       <Text style={{textAlign: 'center', fontSize: 24}}>{'Hello Mahmoud'}</Text>
